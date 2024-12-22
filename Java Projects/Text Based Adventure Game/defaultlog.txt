@@ -1,0 +1,19 @@
+
+Alminster's Absence
+You are Martha, a young witch who has lost her friend Alminster the toad, and must venture through the neighborhood graveyard to find him.
+Explore the area, fight foes and craft potions with whatever you may find on your way.
+If you need help, consult wicca-pedia! (Or type 'help' if you need help.)
+
+Section of graves from 1610-1640: 
+An ordinary spooky section of graves. Its the darkest time of night but luckily the moon throws some light.
+Exits: east - north - 
+> go east
+Section of graves from 1640-1660: 
+An ordinary and slightly fresher section of graves. A cat scurries away when you approach. 
+Exits: east - north - west - 
+> go north
+An overgrown pond: 
+The pond is teeming with creatures, and you can see koi fish through the water. You hear a few frog's ribbits, but theyre not Alminster's. (He's not a social butter-frog)
+Exits: east - south - north - west - 
+ Items:  koi fish scale - 
+> 

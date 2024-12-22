@@ -1,0 +1,315 @@
+
+Alminster's Absence
+You are Martha, a young witch who has lost her friend Alminster the toad, and must venture through the neighborhood graveyard to find him.
+Explore the area, fight foes and craft potions with whatever you may find on your way.
+If you need help, consult wicca-pedia! (Or type 'help' if you need help.)
+
+Section of graves from 1610-1640: 
+An ordinary spooky section of graves. Its the darkest time of night but luckily the moon throws some light.
+Exits: east - north - 
+> go
+Go where?
+> inventory
+Your inventory is currently empty.
+> back
+You havent even started, you can't go back!
+> go north
+Reverends Mausoleum: 
+You encounter the ghost of the Reverend. He does not speak, but floats around his tomb. There is a large cross on the wall in the tomb and the bottom of a narrow stairwell visible.
+Exits: east - south - north - 
+> take cross
+There is nothing called cross in this room.
+> go north
+Upstairs in the Mausoleum: 
+The ghost stays downstairs. You missed having company.
+Exits: east - south - 
+ Items:  lantern - 
+> take lantern
+Acquired lantern.
+> examine lantern
+Lantern
+An old iron lantern. It doesnt have a flame though, and the knob doesnt seem to work. 
+The item weighs 10 pound(s). 
+
+> go east
+A section of graves from 1750-1770: 
+An ordinary section of graves.
+Exits: east - south - north - west - 
+> go east
+Barren patch of dirt: 
+Mysteriously, the entire area is bare earth with the exception of a grayish mass you see a few yards away.
+Exits: east - south - north - west - 
+ Items:  skeleton key -  ashes - 
+> take skeleton key
+Acquired skeleton key.
+> take 
+Take what?
+> take ashes
+Acquired ashes.
+> go east
+Section of graves from 1740-1750: 
+The graves here look similar to those of the decade behind.
+Exits: south - north - west - 
+> go east
+There is no door!
+> go north
+A section of well maintained plots: 
+Here the plots are well manicured and all have flowers or wreaths bestowed on them. You see daisy petals scattered.
+Exits: south - north - west - 
+ Items:  daisy petals -  spool of thread - 
+> take daisy petals
+Acquired daisy petals.
+> examine spool of thread
+Spool of thread
+Its just ordinary cotton thread. I dont have a needle though...
+The item weighs 3 pound(s). 
+
+> examine
+Which item?
+> take spool of thread
+Acquired spool of thread.
+> go west
+A priest's crypt: 
+You see a large and daunting crypt.
+Exits: east - south - north - west - 
+> go west
+A moonlit path.: 
+ This seems to be a normal path walked by visitors. Bushes cover one side.
+Exits: east - south - north - west - 
+ Items:  dagger -  rose petals - 
+> take dagger
+Acquired dagger.
+> take rose petals 
+Acquired rose petals.
+> equip
+Equip what?
+> equip rose petals
+You cant fight with that! Try a different item. 
+> equip dagger
+You have equipped dagger as your weapon. 
+> go west
+Section of graves that all bear your last name.: 
+The graves all appear to be those related to you in some way. Probably insignificant!
+Exits: east - north - 
+ Items:  fire charm -  health potion recipe - 
+> take fire charm
+Acquired fire charm.
+> take health potion recipe
+Acquired health potion recipe.
+> examine health potion recipe
+Health Potion Recipe
+It is ingredients for a health potion. It reads: Craft a shiny stone, red cells that don't belong to you, and a needle's other half.
+The item weighs 1 pound(s). 
+
+> go west
+There is no door!
+> go east
+A moonlit path.: 
+ This seems to be a normal path walked by visitors. Bushes cover one side.
+Exits: east - south - north - west - 
+> go east
+A priest's crypt: 
+You see a large and daunting crypt.
+Exits: east - south - north - west - 
+> go east
+A section of well maintained plots: 
+Here the plots are well manicured and all have flowers or wreaths bestowed on them. You see daisy petals scattered.
+Exits: south - north - west - 
+> back 
+A priest's crypt: 
+You see a large and daunting crypt.
+Exits: east - south - north - west - 
+> go west
+A moonlit path.: 
+ This seems to be a normal path walked by visitors. Bushes cover one side.
+Exits: east - south - north - west - 
+> go west
+Section of graves that all bear your last name.: 
+The graves all appear to be those related to you in some way. Probably insignificant!
+Exits: east - north - 
+> go north
+A section of Nun's burial sites: 
+You hear rustling. Ominous.
+Exits: east - south - north - 
+ Items:  onyx - 
+> take onyx
+Acquired onyx.
+> go east
+A section of graves from 1800-1820: 
+A normal section of graves with ivy grown over the faces.
+Exits: east - south - north - west - 
+ Items:  ivy - 
+> take ivy
+Acquired ivy.
+> go eats
+There is no door!
+> go east
+A salt circle: 
+As you approach you see figures running away. You call out to them but get no response. They looked like they were wearing cloaks like yours.
+Exits: east - south - north - west - 
+ Items:  salt - 
+> take salt
+Acquired salt.
+> go east
+The groundskeeper's shed: 
+A small shed where tools are kept. Inside, it looks like a worker ran out in the middle of lunch.
+Exits: south - north - west - 
+ Items:  scrap of map -  bag of crackers -  watering can - 
+> examine scap of map
+There is no such item.
+> examine scrap of map
+Scrap of map
+A piece of a map written on parchment. I think its written in blood. How charming. 
+The item weighs 1 pound(s). 
+
+> take scrap of map
+Acquired scrap of map.
+> take watering can
+You arent strong enough to carry this! 
+> pack
+Pack what?
+> pack scrap of map
+What container do you want to put it in?
+lantern
+You can't pack Scrap of map into Lantern.
+> pack fire charm
+What container do you want to put it in?
+lantern
+You have packed Fire charm into the Lantern.
+Its a little less spooky out here now that you can see a bit!
+> unpack
+Unpack what?
+> unpack fire charm 
+What container do you want to unpack from?
+rose petals
+Rose petals is not a container!
+> go north
+A section of graves spanning from 1880-1900: 
+You wonder why the graves seem to have skipped over 1860-1880.
+Exits: south - north - west - 
+> go north
+A section of graves from 1900-1930: 
+An ordinary section of graves.
+Exits: south - north - west - 
+ Items:  flying potion recipe - 
+> take flying potion recipe
+Acquired flying potion recipe.
+> go west
+An angel statue: 
+You see a large statue about six feet high and made of stone. Atop the statue is a crown.
+Exits: east - south - north - west - 
+ Items:  strength potion recipe - 
+> take strength potion recipe
+Acquired strength potion recipe.
+> go west
+The skeleton's mausoleum: 
+You approach a large tomb that looks like it has been converted into a clubhouse. There are DO NOT ENTER signs painted with ash and the door is locked.
+Exits: east - south - north - west - 
+ Items:  key ring - 
+> take key ring
+You arent strong enough to carry this! 
+> inventory
+dagger - scrap of map - strength potion recipe - skeleton key - fire charm - salt - health potion recipe - spool of thread - ashes - onyx - lantern - ivy - daisy petals - rose petals - flying potion recipe - 
+> drop lantern
+Dropped lantern.
+> take key ring
+Acquired key ring.
+> go west
+A large pile of leaves.: 
+Definitely shouldnt investigate that. Actually, it looks like theres something underneath the pile. It looks like a trap door to the north, but I cant open it.
+Exits: east - south - north - 
+> go west
+There is no door!
+> go north
+This door is locked!
+> unlock
+Unlock the door in which direction?
+> unlock north
+Unlock With what?
+key ring
+Key ring is not the key to this door!
+> unlock north
+Unlock With what?
+skeleton key
+Unlocked!
+> lock
+Lock the door in which direction?
+> lock north
+Lock With what?
+key ring
+Key ring is not the key to this door!
+> lock north
+Lock With what?
+skeleton key
+Locked!
+> unlock north
+Unlock With what?
+skeleton key
+Unlocked!
+> go north
+The first section of the catacombs: 
+There is blood on the walls and a message that says to be prepared to face foes or death. Maybe I should drink my potions now...
+Exits: east - south - north - west - 
+ Items:  blue plasma - 
+> take blue plasma 
+Acquired blue plasma.
+> craft
+Craft what?
+> craft rose petals
+That isnt craftable!
+> craft health potion
+Health Potion has been added to your inventory.
+> craft strength potion
+Strength Potion has been added to your inventory.
+> craft flying potion
+Flying Potion has been added to your inventory.
+> drink health potion
+Your health has been increased by 50 points. Your health is now 10050. 
+> drink strength potion
+Your strength has been increase by 50 points. Your strength is now 150. 
+> drink flying potion
+You now are able to fly, but only if you are in the presence of great danger. What constitutes grave danger? I guess you'll find out!
+> go north
+Further into the catacombs: 
+You hear ribbits from far away. Looking around, skeletal rats scurrying around the room. They bite.
+Exits: south - 
+You are being attacked by the Skeletal rat!
+The monster's attack missed!
+> attack skeletal rat
+ You inflicted 105 damage on Skeletal rat. 
+You have defeated the Skeletal rat!
+> go south
+The first section of the catacombs: 
+There is blood on the walls and a message that says to be prepared to face foes or death. Maybe I should drink my potions now...
+Exits: east - south - north - west - 
+> go east
+Another subsection of the catacombs: 
+You come across an infinity pool. You see a siren and she bids you to come closer. You think you should probablyyy not.
+Exits: west - 
+> go west
+The first section of the catacombs: 
+There is blood on the walls and a message that says to be prepared to face foes or death. Maybe I should drink my potions now...
+Exits: east - south - north - west - 
+> go west
+Deeper into the catacombs: 
+You hear flapping, and a large skeletal bat is flying towards you. He looks mad.
+Exits: east - north - 
+You are being attacked by the Skeletal bat!
+The monster's attack missed!
+> attack skeletal bat
+ You inflicted 100 damage on Skeletal bat. 
+You have defeated the Skeletal bat!
+> go north
+The end of the catacombs: 
+There is a mysterious pool of water here, there seems to be no movement of the liquid. You hear muffled ribbits.
+Exits: south - 
+
+You have found your bestie Alminster! Toad-ally great job!
+Now to get Alminster in your bag before he pees on your hand...
+
+I hope you enjoyed your witchy adventures around the graveyard!
+You have earned 195 points  in 93 turns!
+Thank you for playing.  Good bye.
+
+
+/// Dr.Sliva I had to turn up the health to 10000 instead of 100 because I kept dying and I was going to scream!! Im setting it back to 100 for submission!
